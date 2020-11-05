@@ -1,0 +1,15 @@
+{
+  "name": "TableauExtensionPt2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bb831/tutorial-extensions-tutorial-part-two",
+  "author": "VAC",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "chart.js": "^2.9.4",
+    "jquery": "^3.5.1"
+  },
+  "description": "TableauExtensionPt2"
+}
