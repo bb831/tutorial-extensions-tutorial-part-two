@@ -3,20 +3,20 @@
   <dashboard-extension id="com.tableaumagic" extension-version="0.1.3">
     <default-locale>en_US</default-locale>
     <name resource-id=""/>
-    <description>Tableau Data Extension Part Two</description>
+    <description>Tableau Data Extension Part Three</description>
     <author name="Your Name" email="Your Email" organization="Your Org" website="https://www.tableaumagic.com"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
       <url>http://localhost:8080</url>
     </source-location>
-    <icon></icon>
+    <icon>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAADAFBMVEUAAAAAAFUAAKoAAP8AJAAAJFUAJKoAJP8ASQAASVUASaoASf8AbQAAbVUAbaoAbf8AkgAAklUAkqoAkv8AtgAAtlUAtqoAtv8A2wAA21UA26oA2/8A/wAA/1UA/6oA//8kAAAkAFUkAKokAP8kJAAkJFUkJKokJP8kSQAkSVUkSaokSf8kbQAkbVUkbaokbf8kkgAkklUkkqokkv8ktgAktlUktqoktv8k2wAk21Uk26ok2/8k/wAk/1Uk/6ok//9JAABJAFVJAKpJAP9JJABJJFVJJKpJJP9JSQBJSVVJSapJSf9JbQBJbVVJbapJbf9JkgBJklVJkqpJkv9JtgBJtlVJtqpJtv9J2wBJ21VJ26pJ2/9J/wBJ/1VJ/6pJ//9tAABtAFVtAKptAP9tJABtJFVtJKptJP9tSQBtSVVtSaptSf9tbQBtbVVtbaptbf9tkgBtklVtkqptkv9ttgBttlVttqpttv9t2wBt21Vt26pt2/9t/wBt/1Vt/6pt//+SAACSAFWSAKqSAP+SJACSJFWSJKqSJP+SSQCSSVWSSaqSSf+SbQCSbVWSbaqSbf+SkgCSklWSkqqSkv+StgCStlWStqqStv+S2wCS21WS26qS2/+S/wCS/1WS/6qS//+2AAC2AFW2AKq2AP+2JAC2JFW2JKq2JP+2SQC2SVW2Saq2Sf+2bQC2bVW2baq2bf+2kgC2klW2kqq2kv+2tgC2tlW2tqq2tv+22wC221W226q22/+2/wC2/1W2/6q2///bAADbAFXbAKrbAP/bJADbJFXbJKrbJP/bSQDbSVXbSarbSf/bbQDbbVXbbarbbf/bkgDbklXbkqrbkv/btgDbtlXbtqrbtv/b2wDb21Xb26rb2//b/wDb/1Xb/6rb////AAD/AFX/AKr/AP//JAD/JFX/JKr/JP//SQD/SVX/Sar/Sf//bQD/bVX/bar/bf//kgD/klX/kqr/kv//tgD/tlX/tqr/tv//2wD/21X/26r/2////wD//1X//6r////qm24uAAABAHRSTlP//////////////////////////////////////////wD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ozV/igAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+QLBRQEApBCnZMAAAIGSURBVFiF7ZbrrcMwCIWzMMswDMswjC/gFyY4bVpdqT/iSI3sOsf445jkKF+24xF4BH5WgAsRkrTeZ+szvxCweQgAOC7AwuT7gFGpC9CchdKY5MLe12eq+pzDQSBVt2HyIyLEWOOMApjusMgmssZj3ASEF8IiwLpWDaH3VwEEqqEdtScXtxjdXmWKYkTjUmk0XbYdcxcA3RSXlbb9FtmrH20EVYAAhoCMqNwgHhj0vvnDYrFxAhdBMQYJR4TzmBKxNSlE4GZo3i2SSrv3lixkEUQvkjIgT6btcK4ZGXTv6VlQWraSPjdyc8HgxJADg+FDzXwSQdYunJgwGIzn+TXPW/bW2FIG04Xde9QZOC+azlwzMJistaBIFlCzUPsuPxsfUFJ1IoO6u50TM4iZE3cM3BrW9LxqBK3v48uzwIhun3Yvlm9YRkVp4wNc/KqR1HrQ3OtytGEQT0zKQM8VXTK4zoJjcPaBYwjQapbmnABaf3Dc+MCdt167VHuhaG5MGZTivNqoGQPuq0437s7Cmwz4xWlcWloTyz/Xg1Xg/ll4O4KND+zvWZGMgRaH8VZzEUQfsE103xMyRapSGBkVKTIA9+6bdRzsO0XLEy0nFc4M9D2i30XLG4ogwBlnkgKD1EX2RD7KJUTwQVsYEN+//PeBcWu/N+5doOi79JOrdIFv2iPwCPyGwB/dXd7gFArRHAAAAABJRU5ErkJggg==</icon>
     <permissions>
       <permission>full data</permission>
     </permissions>
   </dashboard-extension>
   <resources>
     <resource id="name">
-      <text locale="en_US">Tutorial Two</text>
+      <text locale="en_US">Tutorial Three</text>
     </resource>
   </resources>
 </manifest>
